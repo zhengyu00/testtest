@@ -9,3 +9,4 @@ setup(
     include_package_data=True, # 将数据文件也打包
     zip_safe=True
     )
+
